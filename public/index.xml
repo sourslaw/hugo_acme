@@ -1,0 +1,61 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acme Corporation</title>
+    <link>https://sourslaw.github.io/hugo_acme/</link>
+    <description>Recent content on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    
+        <atom:link href="https://sourslaw.github.io/hugo_acme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+<title></title>
+<link>https://sourslaw.github.io/hugo_acme/about/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://sourslaw.github.io/hugo_acme/about/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>https://sourslaw.github.io/hugo_acme/contact/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://sourslaw.github.io/hugo_acme/contact/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>https://sourslaw.github.io/hugo_acme/credits/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://sourslaw.github.io/hugo_acme/credits/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>https://sourslaw.github.io/hugo_acme/privacy/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://sourslaw.github.io/hugo_acme/privacy/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>https://sourslaw.github.io/hugo_acme/terms/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://sourslaw.github.io/hugo_acme/terms/</guid>
+<description></description>
+<category></category></item>
+    
+  </channel>
+</rss>

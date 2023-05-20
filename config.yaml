@@ -1,4 +1,4 @@
-baseURL: https://sourslaw.github.io/hugo_acme
+baseURL: https://hugo-acme-eight.vercel.app/
 languageCode: en-us
 title: Acme Corporation
 theme: Eclectic
